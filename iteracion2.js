@@ -20,21 +20,3 @@ for(let i =0; i <alumns.length; i++){
 }
 console.log(alumns)
 
-// for(let i=0 ; i <alumns.length; i++){
-//     if(alumns[i].T1 && alumns[i].T2){
-//         console.log('el alumno '+ i + 'está aprobado')  
-//         // alumns[i].name +(isAppoved='true') 
-//     }else if(alumns[i].T1 && alumns[i].T3){   
-//         console.log('el alumno '+ i + 'está aprobado') 
-//         // alumns[i].push(isAppoved='true') 
-//     }else if(alumns[i].T2 && alumns[i].T3){
-//         console.log('el alumno '+ i + 'está aprobado') 
-//         // alumns[i].push(isAppoved='true') 
-//     }else{
-//         console.log('el alumno '+ i + 'está suspenso') 
-//         // alumns[i].push(isAppoved='false')
-//     }
-// }
-// console.log(alumns)
-
-// alumns[i].isAppoved 
